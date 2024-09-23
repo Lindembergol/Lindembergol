@@ -1,4 +1,5 @@
-## Lindemberg Oliveira 
+## Olá, Me chamo Lindemberg Oliveira 
+
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lindembergol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -22,3 +23,10 @@
   <a href ="mailto:bergolima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lindemberg-oliveira-8718a815a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## About me
+
+- 👨🏽‍💻 Hoje trabalho como Analista de Suporte Técnico
+- 🧠 Meu objetivo atual é me tornar um programador
+- 📚 Estudando Nodejs
+- 👦🏽 Adoro interagir com novas pessoas e compartilhar conhecimentos.
