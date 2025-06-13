@@ -28,5 +28,5 @@
 
 - 👨🏽‍💻 Hoje trabalho como Analista de Suporte Técnico
 - 🧠 Meu objetivo atual é me tornar um programador
-- 📚 Estudando Nodejs
+- 📚 Estudando Nodejs e Angular
 - 👦🏽 Adoro interagir com novas pessoas e compartilhar conhecimentos.
